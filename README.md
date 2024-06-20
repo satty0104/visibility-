@@ -55,7 +55,7 @@ Framework- Flask
 
 Tools- VsCode
 
-Algorithms - Random Forest Regressor and XGBoost Regressor
+Algorithms - Decision Tree Regressor and XGBoost Regressor
 
 
 
